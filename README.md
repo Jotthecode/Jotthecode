@@ -33,11 +33,10 @@
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-  <h4><li href ="https://www.linkedin.com/in/jot-ajmani-b9154b217/">Linkedin: Jot Ajmani</li></h4>
+  <h4><link href ="https://www.linkedin.com/in/jot-ajmani-b9154b217/">Linkedin: Jot Ajmani</h4>
   
-  <h4>Discord: Jotthecode</h4>
-  <h4>Instagram: quirkyjot</h4>
-
+  <h4><link href ="https://discord.com/channels/@jotthecode"> Discord: Jotthecode</h4>
+ 
 ⚡ Contributed in GirlScript Summer Of Code
 ![image](https://github.com/user-attachments/assets/b9604832-3e7e-47e6-b34b-f7d5234dff14)
 Here are the few Batches :
