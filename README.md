@@ -1,5 +1,8 @@
 ## Hi there 👋
-🌱 I’m currently learning to contribute in Open Source 
+🌱 I’m currently learning to contribute in Open Source.
+Contributed in GirlScript Summer Of Code
+![image](https://github.com/user-attachments/assets/b9604832-3e7e-47e6-b34b-f7d5234dff14)
+
 <!--
 **Jotthecode/Jotthecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
