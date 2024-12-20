@@ -25,8 +25,7 @@
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
-[3.1]: ![image](https://github.com/user-attachments/assets/7689d972-7c35-4059-9a5b-d1926b38491c)
- (linkedin icon with padding)
+[3.1]: ![image](https://github.com/user-attachments/assets/7689d972-7c35-4059-9a5b-d1926b38491c)(linkedin icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
@@ -36,7 +35,7 @@
 
 [1]: http://www.twitter.com/quirkyjot
 [2]: http://www.facebook.com/jotajmani
-[3]: linkedin.com/in/jot-ajmani-b9154b217/
+[3]: https://www.linkedin.com/in/jot-ajmani-b9154b217
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
