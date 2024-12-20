@@ -1,6 +1,8 @@
 ## Hi there, I'm Jot👋
 🌱 I’m currently learning to contribute in Open Source.
-
+🔭 I’m currently working on Web Development.
+📫 How to reach me:
+Linkedin:<li href="https://www.linkedin.com/in/jot-ajmani-b9154b217/"></li>
 
 
 ⚡ Contributed in GirlScript Summer Of Code
@@ -8,7 +10,7 @@
 Here are the few Batches :
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
- https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg
+
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
