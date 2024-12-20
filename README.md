@@ -33,7 +33,7 @@
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-  <h4><img src="https://github.com/user-attachments/assets/7689d972-7c35-4059-9a5b-d1926b38491c" width="20%" height="auto">Linkedin: Jot Ajmani</h4>
+  <h4><img src="https://github.com/user-attachments/assets/7689d972-7c35-4059-9a5b-d1926b38491c" width="0.05%" height="auto">Linkedin: Jot Ajmani</h4>
   <h4>Discord: Jotthecode</h4>
   <h4>Instagram: quirkyjot</h4>
 
