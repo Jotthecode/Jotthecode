@@ -1,10 +1,11 @@
 ## Hi there, I'm Jot👋
+## IInd Year BTech - Information Technology- SGSITS Indore
 🌱 I’m currently learning to contribute in Open Source.
 🔭 I’m currently working on Web Development.
 📫 How to reach me:
   Linkedin: Jot Ajmani
   Discord: Jotthecode
-  InstaGram: quirkyjot
+  Instagram: quirkyjot
 
 
 ⚡ Contributed in GirlScript Summer Of Code
