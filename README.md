@@ -1,24 +1,48 @@
 ## Hi there, I'm Jot👋
 #### IInd Year BTech - Information Technology- SGSITS Indore
-![image](https://github.com/user-attachments/assets/b3153a79-164b-461f-a2a5-79ee103e17c3)
+![image](https://github.com/user-attachments/assets/3fb3c198-624c-4aa3-98c3-6316bbaec81e)
+
 
 
 <p>🌱 I’m currently learning to contribute in Open Source.</p>
+<p>Passionate about Machine Learning and AI, I enjoy coding</p>
 <p>🔭 I’m currently working on Web Development.</p>
-
+<p>Open for Collaboration and share new ideas</p>
 <p>📫 How to reach me:</p>
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.8/src/app/ci.min.css"
-/>
-  <h4>Linkedin: Jot Ajmani</h4>
-  <i class="ci ci-linkedin ci-2x"></i>
-  <h4>Discord: Jotthecode</h4>
-  <i class="ci ci-discord ci-2x"></i>
-  <h4>Instagram: quirkyjot</h4>
-  <i class="ci ci-instagram ci-2x"></i>
-  <i class="ci ci-spotify ci-2x"></i>
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/quirkyjot
+[2]: http://www.facebook.com/jotajmani
+
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+  <h4>Linkedin: Jot Ajmani</h4>
+  <h4>Discord: Jotthecode</h4>
+  <h4>Instagram: quirkyjot</h4>
 
 ⚡ Contributed in GirlScript Summer Of Code
 ![image](https://github.com/user-attachments/assets/b9604832-3e7e-47e6-b34b-f7d5234dff14)
