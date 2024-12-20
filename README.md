@@ -8,13 +8,14 @@
 <p>Passionate about Machine Learning and AI, I enjoy coding</p>
 <p>🔭 I’m currently working on Web Development.</p>
 <p>Open for Collaboration and share new ideas</p>
-<p>📫 How to reach me:</p>
+<p>📫 Reach me:</p>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -23,6 +24,9 @@
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+
+[3.1]: ![image](https://github.com/user-attachments/assets/7689d972-7c35-4059-9a5b-d1926b38491c)
+ (linkedin icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
@@ -32,6 +36,7 @@
 
 [1]: http://www.twitter.com/quirkyjot
 [2]: http://www.facebook.com/jotajmani
+[3]: linkedin.com/in/jot-ajmani-b9154b217/
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
