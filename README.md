@@ -25,13 +25,11 @@
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
-
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/quirkyjot
 [2]: http://www.facebook.com/jotajmani
-
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
