@@ -1,11 +1,21 @@
 ## Hi there, I'm Jot👋
-## IInd Year BTech - Information Technology- SGSITS Indore
-🌱 I’m currently learning to contribute in Open Source.
+# IInd Year BTech - Information Technology- SGSITS Indore
+![image](https://github.com/user-attachments/assets/b3153a79-164b-461f-a2a5-79ee103e17c3)
+
+
+<p>🌱 I’m currently learning to contribute in Open Source.</p>
 🔭 I’m currently working on Web Development.
-📫 How to reach me:
-  Linkedin: Jot Ajmani
-  Discord: Jotthecode
-  Instagram: quirkyjot
+<p>📫 How to reach me:</p>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.8/src/app/ci.min.css"
+/>
+  <h4>Linkedin: Jot Ajmani</h4>
+  <i class="ci ci-linkedin ci-2x"></i>
+  <h4>Discord: Jotthecode</h4>
+  <i class="ci ci-discord ci-2x"></i>
+  <h4>Instagram: quirkyjot</h4>
+  <i class="ci ci-instagram ci-2x"></i>
 
 
 ⚡ Contributed in GirlScript Summer Of Code
