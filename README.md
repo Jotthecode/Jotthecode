@@ -4,7 +4,8 @@
 
 
 <p>🌱 I’m currently learning to contribute in Open Source.</p>
-🔭 I’m currently working on Web Development.
+<p>🔭 I’m currently working on Web Development.</p>
+
 <p>📫 How to reach me:</p>
 <link
   rel="stylesheet"
@@ -16,6 +17,7 @@
   <i class="ci ci-discord ci-2x"></i>
   <h4>Instagram: quirkyjot</h4>
   <i class="ci ci-instagram ci-2x"></i>
+  <i class="ci ci-spotify ci-2x"></i>
 
 
 ⚡ Contributed in GirlScript Summer Of Code
