@@ -2,7 +2,9 @@
 🌱 I’m currently learning to contribute in Open Source.
 🔭 I’m currently working on Web Development.
 📫 How to reach me:
-Linkedin:<li href="https://www.linkedin.com/in/jot-ajmani-b9154b217/"></li>
+  Linkedin: Jot Ajmani
+  Discord: Jotthecode
+  InstaGram: quirkyjot
 
 
 ⚡ Contributed in GirlScript Summer Of Code
