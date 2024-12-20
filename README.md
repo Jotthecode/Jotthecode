@@ -1,5 +1,5 @@
 ## Hi there, I'm Jot👋
-# IInd Year BTech - Information Technology- SGSITS Indore
+#### IInd Year BTech - Information Technology- SGSITS Indore
 ![image](https://github.com/user-attachments/assets/b3153a79-164b-461f-a2a5-79ee103e17c3)
 
 
