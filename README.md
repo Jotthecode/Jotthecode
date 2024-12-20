@@ -1,7 +1,6 @@
 ## Hi there, I'm Jot👋
 #### IInd Year BTech - Information Technology- SGSITS Indore
-![image](https://github.com/user-attachments/assets/3fb3c198-624c-4aa3-98c3-6316bbaec81e)
-
+![image](https://github.com/user-attachments/assets/9c383aed-50c8-45b1-944f-5e1efb369aac)
 
 
 <p>🌱 I’m currently learning to contribute in Open Source.</p>
