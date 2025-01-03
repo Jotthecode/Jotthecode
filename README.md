@@ -4,7 +4,7 @@
 
 
 <p>🌱 I’m currently learning to contribute in Open Source.</p>
-<p>Passionate about Machine Learning and AI, I enjoy coding</p>
+<p>Passionate about Machine Learning and AI, I enjoy coding and learning new things.</p>
 <p>🔭 I’m currently working on Web Development.</p>
 <p>Open for Collaboration and share new ideas</p>
 <p>📫 Reach me:</p>
