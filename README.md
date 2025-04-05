@@ -6,7 +6,7 @@
 <p>🌱 I’m currently learning to contribute in Open Source.</p>
 <p>Passionate about Machine Learning and AI, I enjoy coding,learning new things.</p>
 <p>🔭 I’m currently working on Web Development, currently learning react.js.</p>
-<p>Open for Collaboration and share new ideas</p>
+<p>Open for Collaboration and share new ideas related to front end web dev and data science as well.</p>
 <p>📫 Reach me:</p>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
