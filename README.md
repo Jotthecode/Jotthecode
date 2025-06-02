@@ -90,11 +90,6 @@ Validates email addresses, checks domain and mailbox deliverability, assigns rel
 
 ![image](https://github.com/user-attachments/assets/9c383aed-50c8-45b1-944f-5e1efb369aac)
 
-
-<p>🌱 I’m currently learning to contribute in Open Source.</p>
-<p>Passionate about Machine Learning and AI, I enjoy coding,learning new things.</p>
-<p>🔭 I’m currently working on Web Development, currently learning react.js.</p>
-<p>Open for Collaboration and share new ideas related to front end web dev and data science as well.</p>
 <p>📫 Reach me:</p>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -104,25 +99,6 @@ Validates email addresses, checks domain and mailbox deliverability, assigns rel
 [![alt text][2.1]][2]
 
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/quirkyjot
-[2]: http://www.facebook.com/jotajmani
-
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-  <h4><link href ="https://www.linkedin.com/in/jot-ajmani-b9154b217/">Linkedin: Jot Ajmani</h4>
-  
-  <h4><link href ="https://discord.com/channels/@jotthecode"> Discord: Jotthecode</h4>
  
 ⚡ Contributed in GirlScript Summer Of Code
 ![image](https://github.com/user-attachments/assets/b9604832-3e7e-47e6-b34b-f7d5234dff14)
@@ -141,17 +117,4 @@ Here are the few Batches :
 </div>
 </details>
 
-<!--
-**Jotthecode/Jotthecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
