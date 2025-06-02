@@ -88,17 +88,6 @@ Validates email addresses, checks domain and mailbox deliverability, assigns rel
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jotthecode&theme=radical&hide_border=true" />
 </p>
 
-![image](https://github.com/user-attachments/assets/9c383aed-50c8-45b1-944f-5e1efb369aac)
-
-<p>📫 Reach me:</p>
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-
-
  
 ⚡ Contributed in GirlScript Summer Of Code
 ![image](https://github.com/user-attachments/assets/b9604832-3e7e-47e6-b34b-f7d5234dff14)
