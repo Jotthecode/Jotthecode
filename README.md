@@ -1,5 +1,5 @@
 ## Hi there, I'M JOT👋
-#### IInd Year BTech - Information Technology- SGSITS Indore
+#### Pre Final Year BTech - Information Technology- SGSITS Indore
 
 <h1 align="center">Hi 👋, I'm Jot Ajmani</h1>
 <p align="center">
