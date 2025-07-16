@@ -1,12 +1,12 @@
 
 
-
 <h1 align="center">Hi 👋, I'm Jot Ajmani</h1>
-#### Pre Final Year BTech - Information Technology- SGSITS Indore
+
 <p align="center">
   <em>Motivated and curious tech enthusiast | Data Analyst | Backend Developer | Open Source Contributor</em>
 </p>
 
+#### Pre Final Year BTech - Information Technology- SGSITS Indore
 ---
 
 ### 🧑‍💻 About Me
