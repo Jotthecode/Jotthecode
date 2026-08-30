@@ -20,10 +20,8 @@
 
 ### 💼 Work Experience
 
-#### 🧠 **Business Intelligence & Data Analyst Intern – Adharth.in** (May 2025 – Present)
-- Built tools like Email Validator, Web Scraper, and Automated Message Generator
-- Analyzed leads and datasets to detect buyer intent and generated visual trends
-- Combined **Selenium** and **Scikit-learn** for data-driven decision making
+#### 🧠 **AI Automation & Full Stack Developer @XoidLabs** (June 2026 – Present)
+- Contributed to React-Native Projects Directure AI IOS app development
 
 #### 👨‍💻 **Open Source Developer – PLDG Cohort** (Jan 2025 – Apr 2025)
 - Developed client page for **akave** and improved cache dependencies
@@ -36,19 +34,15 @@
 
 **B.Tech in Information Technology**  
 Shri G.S. Institute of Technology & Science, Indore  
-_2023–2027_ • CGPA: 8.1 (till 4th semester)  
+_2023–2027_ • CGPA: 8.5  
 Clubs: BIS Club, IdeaLab, NSS  
-
-**High School**  
-Kendriya Vidyalaya  
-Class 12: 93% | Class 10: 95%  
 
 ---
 
 ### 🛠️ Skills
 
-- **Languages:** Python, Java, C#
-- **Tech Stack:** Backend Web Development, Data Analysis, Regression Models
+- **Languages:** Python, Java, C#, Javascript
+- **Tech Stack:** Backend Web Development, Data Analysis, Regression Models, React Native
 - **Tools:** Git, GitHub, VS Code, Google Colab, Google Cloud
 - **Libraries & DBs:** Pandas, Matplotlib, Numpy, Selenium, Scikit-learn, MySQL
 - **Certifications:**  
@@ -57,21 +51,6 @@ Class 12: 93% | Class 10: 95%
 
 ---
 
-### 🚀 Projects
-
-#### 📌 City Pulse
-> Streamlit, Python, API   
-One Time Solution to all the city data, be it weather, crime news, air quality, poluution, tourist spots, trends, popularity, or anything...
-> 
-#### 📌 College Event Hub
-> HTML, CSS, JavaScript  
-Displays and registers users for upcoming events, shows past events and club activities.
-
-#### 📌 Email Validator
-> HTML, JS, CSS, SMTP, Selenium  
-Validates email addresses, checks domain and mailbox deliverability, assigns reliability scores.
-
----
 
 ### 🌐 Connect with Me
 
@@ -89,7 +68,8 @@ Validates email addresses, checks domain and mailbox deliverability, assigns rel
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jotthecode&theme=radical&hide_border=true" />
 </p>
 
- 
+
+
 ⚡ Contributed in GirlScript Summer Of Code
 ![image](https://github.com/user-attachments/assets/b9604832-3e7e-47e6-b34b-f7d5234dff14)
 Here are the few Batches :
